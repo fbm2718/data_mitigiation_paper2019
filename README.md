@@ -1,4 +1,4 @@
-## This is a digital appendix for paper:
+### This is a digital appendix for paper:
 "Mitigation of readout noise in near-term quantum devices by classical post-processing based on detector tomography" (2019)
 by Filip B. Maciejewski, Zoltán Zimborás, and Michał Oszmaniec.
 
