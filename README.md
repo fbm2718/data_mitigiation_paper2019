@@ -7,5 +7,6 @@ Simply download folder 'data' and jupyer notebook 'Access_data.ipynb' and use th
 
 ### CONTACT: 
 Please feel free to request for any more data, some Python code or simply help with this notebook.
+
 Email: filip.b.maciejewski@gmail.com
 
