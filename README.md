@@ -6,6 +6,6 @@ by Filip B. Maciejewski, Zoltán Zimborás, and Michał Oszmaniec.
 Simply download folder 'data' and jupyer notebook 'Access_data.ipynb' and use this notebook to access data.
 
 ### CONTACT: 
-Please, feel free to request for any more data, some Python code or simply help with this notebook.
+Please feel free to request for any more data, some Python code or simply help with this notebook.
 Email: filip.b.maciejewski@gmail.com
 
