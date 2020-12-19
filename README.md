@@ -11,5 +11,5 @@ Please feel free to request for any more data, some Python code or simply help w
 
 Email: filip.b.maciejewski@gmail.com
 
-### Make sure to check out our repository on measurement noise mitigation: 
+### Make sure to check out our repository: 
 https://github.com/fbm2718/QREM
